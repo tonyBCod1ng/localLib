@@ -1,7 +1,7 @@
 {
   "name": "project-local-library",
   "version": "1.0.0",
-  "description": "",
+  "description": "local-library-project",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -11,7 +11,7 @@
     "test": "mocha test/*.test.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Anthony Brown",
   "license": "ISC",
   "devDependencies": {
     "chai": "^4.2.0",
